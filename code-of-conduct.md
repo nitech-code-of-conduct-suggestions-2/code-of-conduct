@@ -45,6 +45,7 @@ Harassment includes:
 * Continued one-on-one communication after requests to cease
 * Publication of non-harassing private communication
 * Attempt to apply non-social (especially biological) justification to observed professional inequalities, or the experience of inequal treatment, based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion (either as an individual or on aggregate)
+* Physical harassment of members, sexual or otherwise, at events explicitly connected to or advertised through the NI Tech Slack
 
 Reporting
 ---------
